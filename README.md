@@ -10,3 +10,7 @@ http://www.shadowrocket.club 被墙 需要科学上网打开
 http://shadowingy.ml 可用
 
 http://www.shadowingy.ml 可用
+
+https://www.shadowingypro.xyz 可用
+
+https://shadowingypro.xyz 可用 
